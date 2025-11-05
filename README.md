@@ -1,6 +1,6 @@
 <h1 align="center">Enrico Marinelli</h1>
 
-<p align="center">I am a software and control system engineer from 🇮🇹 <br>
+<p align="center">I am a robotics engineer from 🇮🇹 graduated in software and control system engineering <br>
 <a href="https://www.linkedin.com/in/enricomarinelli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
